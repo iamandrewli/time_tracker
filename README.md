@@ -3,3 +3,6 @@ I am a lover of mechanical watches and decided to create an app to allow to keep
 
 ## Dependancies
 * Python 3
+
+## Change Log
+23/09/2020 - This project is still under-development.
